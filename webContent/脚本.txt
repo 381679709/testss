@@ -1,0 +1,2 @@
+安装脚本：sh ss-fly.sh -i 密码 端口
+启动服务脚本：/usr/bin/ssserver -c /etc/shadowsocks.json -d start
